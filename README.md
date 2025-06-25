@@ -9,26 +9,26 @@
 
 <h3>🚀 About Me</h3>
 <ul>
-  <li>🎓 <strong>Data Science Undergraduate Student</li>
-  <li>💻 <strong>Programming:</strong> Started with C & C++, now mastering Java, Python, and tools for data analysis</li>
-  <li>📊 <strong>Interests:</strong> Data science, machine learning, networking, OSSA, SPM, and innovative tech solutions</li>
-  <li>🤝 <strong>Collaboration:</strong> Always excited to work on real-world data projects and meaningful solutions</li>
+  <li> <strong>Data Science Undergraduate Student</li>
+  <li> <strong>Programming:</strong> Started with C & C++, now mastering Java, Python, and tools for data analysis</li>
+  <li> <strong>Interests:</strong> Data science, machine learning, networking, OSSA, SPM, and innovative tech solutions</li>
+  <li> <strong>Collaboration:</strong> Always excited to work on real-world data projects and meaningful solutions</li>
 </ul>
 
 <h3>🔭 What I'm Working On</h3>
 <ul>
-  <li>📈 <strong>Java Projects:</strong> Enhancing my skills with hands-on coding and project building.</li>
-  <li>📈 <strong>Data Projects:</strong> Exploring data visualization, preprocessing, and analysis using Python</li>
-  <li>🔐 <strong>Networking & Security:</strong> Building foundational knowledge in network infrastructure</li>
-  <li>🛠️ <strong>Software Engineering:</strong> Applying modern SE practices like OSSA and SPM to build reliable systems</li>
+  <li> <strong>Java Projects:</strong> Enhancing my skills with hands-on coding and project building.</li>
+  <li> <strong>Data Projects:</strong> Exploring data visualization, preprocessing, and analysis using Python</li>
+  <li> <strong>Networking & Security:</strong> Building foundational knowledge in network infrastructure</li>
+  <li> <strong>Software Engineering:</strong> Applying modern SE practices like OSSA and SPM to build reliable systems</li>
 </ul>
 
 <h3>🌱 Currently Learning</h3>
 <ul>
-  <li>📌 Python for Data Science: Libraries like NumPy, Pandas, Seaborn, Matplotlib</li>
-  <li>📌 Machine Learning: Scikit-learn basics, model training, and evaluation</li>
-  <li>📌 Java Development: Strengthening object-oriented programming with real-world applications</li>
-  <li>📌 Version Control: Git & GitHub workflows</li>
+  <li> Python for Data Science: Libraries like NumPy, Pandas, Seaborn, Matplotlib</li>
+  <li> Machine Learning: Scikit-learn basics, model training, and evaluation</li>
+  <li> Java Development: Strengthening object-oriented programming with real-world applications</li>
+  <li> Version Control: Git & GitHub workflows</li>
 </ul>
 
 <h3>📫 Connect With Me</h3>
